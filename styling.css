@@ -1,0 +1,19 @@
+h2 {
+    color: brown;
+    font-style: italic;
+}
+
+h3 {
+    color:darkviolet;
+}
+p {
+    color:crimson;
+}
+
+.intro
+{
+    background-color: #000000;
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+}
